@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wellcom+Vistor!;Wellcome+Any+Correction)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naivve&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naivve&langs_count=6)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naive&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
