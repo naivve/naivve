@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naivve&show_icons=true&theme=radical)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naivve&show_icons=true&theme=radical)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naive&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
